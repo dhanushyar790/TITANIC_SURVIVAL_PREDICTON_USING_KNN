@@ -71,7 +71,3 @@ Actively learning **AI & Data Science** with hands-on projects 🚀
 
 ## 🚀 Conclusion
 This project demonstrates how **K-Nearest Neighbors (KNN)** can be effectively used for classification tasks with proper **preprocessing, scaling, and feature selection**.
-
----
-
-## 📂 Repository Structure
