@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 This project predicts passenger survival on the Titanic dataset using the **K-Nearest Neighbors (KNN)** algorithm.  
-It demonstrates an end-to-end machine learning workflow including **data preprocessing, feature engineering, model training, evaluation, and visualization**.
+It demonstrates an end-to-end machine learning workflow including **data preprocessing, feature engineering, model training, evaluation, and visualization**
 
 ---
 
